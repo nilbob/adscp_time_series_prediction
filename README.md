@@ -33,7 +33,7 @@ There are 4 notebooks available here to show the above steps that I went through
 
 
 
-For the final project, I had to held a [presentation](https://github.com/nilbob/adscp_time_series_prediction/blob/main/Traffic_Forecast_Prediction_Presentation(ADSCP).pdf) as well as uploading a video of the presentation, which could be watched [here] (https://youtu.be/VDcQ7SCJec0) 
+For the final project, I had to held a [presentation](https://github.com/nilbob/adscp_time_series_prediction/blob/main/Traffic_Forecast_Prediction_Presentation(ADSCP).pdf) as well as uploading a video of the presentation, which could be watched [here](https://youtu.be/VDcQ7SCJec0) 
 
 ## Results<a name="results"></a>
 
